@@ -11,4 +11,7 @@ The typical customer care chatbot can answer simple questions, such as store loc
 4. Build a web application with integration to all these services & deploy the same on IBM Cloud Platform
 
 
+[![Intelligent Customer Help Desk with Smart Document Understanding](https://img.youtube.com/vi/__yPZLmHpkM/0.jpg)](https://www.youtube.com/watch?v=__yPZLmHpkM "Intelligent Customer Help Desk with Smart Document Understanding")
 
+Link to the demo video -
+[https://www.youtube.com/watch?v=__yPZLmHpkM](https://www.youtube.com/watch?v=__yPZLmHpkM)
