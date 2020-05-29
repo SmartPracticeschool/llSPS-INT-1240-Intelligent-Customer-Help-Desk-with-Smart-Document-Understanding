@@ -15,3 +15,6 @@ The typical customer care chatbot can answer simple questions, such as store loc
 
 Link to the demo video -
 [https://www.youtube.com/watch?v=__yPZLmHpkM](https://www.youtube.com/watch?v=__yPZLmHpkM)
+
+Node-RED app link - 
+[https://node-red-ozqlw.eu-gb.mybluemix.net/ui](https://node-red-ozqlw.eu-gb.mybluemix.net/ui)
