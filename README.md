@@ -18,3 +18,6 @@ Link to the demo video -
 
 Node-RED app link - 
 [https://node-red-ozqlw.eu-gb.mybluemix.net/ui](https://node-red-ozqlw.eu-gb.mybluemix.net/ui)
+
+Feedback link - 
+[https://youtu.be/_0ne2eQ-caQ](https://youtu.be/_0ne2eQ-caQ)
